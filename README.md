@@ -16,13 +16,15 @@ For forecasting, the dataset will be divided into a training set and testing set
 
 ### Files needed
 
-original proposal: Proposal.pdf
+*original proposal: Proposal.pdf
 
-final project report: Project report.pdf
+*final project report: Project report.pdf
 
-Jupyter Notebook: WebTrafficExploration.ipynb
+*Jupyter Notebook: WebTrafficExploration.ipynb
 
-html export of the Jupyter Notebook: WebTrafficExploration.html
+*html export of the Jupyter Notebook: WebTrafficExploration.html
+
+* powerpoint presentation on Time Series Analysis: Time Series Analysis using Python.pptx
 
 ### Prerequisites
 
@@ -54,74 +56,22 @@ from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from math import sqrt
 ```
 
-### Installing
-
-A step by step series of examples that tell you how to get a development env running
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Akhilesh Jain** - [akhi2908](https://github.com/akhi2908)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+## References
 
-## License
+* Understanding basic concepts behind statistical time series analysis: https://www.itl.nist.gov/div898/handbook/pmc/section4/pmc4.htm
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* Full notes on statistical forecasting: http://people.duke.edu/~rnau/411home.htm
 
-## Acknowledgments
+* When to use which forecasting model: http://people.duke.edu/~rnau/whatuse.htm 
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* Good python tutorial on TSA
+https://medium.com/open-machine-learning-course/open-machine-learning-course-topic-9-time-series-analysis-in-python-a270cb05e0b3
+http://www.seanabu.com/2016/03/22/time-series-seasonal-ARIMA-model-in-python/
+
+* Statsmodel library: https://www.statsmodels.org/stable/tsa.html
+
+* Exponential Smoothing: https://www.statsmodels.org/dev/examples/notebooks/generated/exponential_smoothing.html
