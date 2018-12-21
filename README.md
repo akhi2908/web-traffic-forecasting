@@ -16,15 +16,17 @@ For forecasting, the dataset will be divided into a training set and testing set
 
 ### Files needed
 
-*original proposal: Proposal.pdf
+* original proposal: Proposal.pdf
 
-*final project report: Project report.pdf
+* final project report: Project report.pdf
 
-*Jupyter Notebook: WebTrafficExploration.ipynb
+* upyter Notebook: WebTrafficExploration.ipynb
 
-*html export of the Jupyter Notebook: WebTrafficExploration.html
+* html export of the Jupyter Notebook: WebTrafficExploration.html
 
 * powerpoint presentation on Time Series Analysis: Time Series Analysis using Python.pptx
+
+* input csv files: https://drive.google.com/drive/folders/13SoRSaZ4fcdsXE0eI0BukKKxdinJUdJG?usp=sharing
 
 ### Prerequisites
 
