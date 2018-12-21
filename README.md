@@ -26,12 +26,13 @@ html export of the Jupyter Notebook: WebTrafficExploration.html
 
 ### Prerequisites
 
-Python 3
+* Python 3
 
-Jupyter notebook
+* Jupyter notebook
 
-The following libraries need to be imported 
+* The following libraries need to be imported 
 
+```
 import numpy as np # linear algebra
 
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
@@ -51,6 +52,7 @@ from sklearn.metrics import mean_squared_error
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 
 from math import sqrt
+```
 
 ### Installing
 
