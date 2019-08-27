@@ -20,7 +20,7 @@ For forecasting, the dataset will be divided into a training set and testing set
 
 * final project report: Project report.pdf
 
-* upyter Notebook: WebTrafficExploration.ipynb
+* Jupyter Notebook: WebTrafficExploration.ipynb
 
 * html export of the Jupyter Notebook: WebTrafficExploration.html
 
